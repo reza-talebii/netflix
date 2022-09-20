@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <Meta />
+          <Meta title="netflix" />
         </Head>
         <body>
           <Main />
