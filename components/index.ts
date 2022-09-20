@@ -1,1 +1,2 @@
-export { default as Header } from "./Layout/Header";
+export * from "./Layout/Header";
+export * from "./meta/meta";
